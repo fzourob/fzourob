@@ -1,4 +1,4 @@
-### Hi there, I'm [Fatma][https://fzourob.github.io] 👋
+### Hi there, I'm Fatma 👋
 
 
 ## I'm a Professional, In-Progress Developer, and Teacher!
