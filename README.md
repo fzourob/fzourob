@@ -1,11 +1,11 @@
-### Hi there, I'm Fatma 👋
+### Hi there, I'm Fatma! 👋
 
 
 ## I'm a Professional, In-Progress Developer, and Teacher!
 
 - 👷‍♀️ I’m an engineer by day 
 - 👩‍🏫 A tutor by night, sign up if you're interested with [VIPKid][VIPKid]!
-- 🌱 I’m an avid learner 🤓
+- 🌱 I’m an avid learner 🤓Check out my [Website][website]!
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I am a Netflix addict (who isn't?!) 🐣
